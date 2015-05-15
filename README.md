@@ -94,7 +94,7 @@ the User.history method returns an $http promise that resolves into the history 
  ```
 **Returns** an $http promise that resolves into your account information.
 
- ### Request
+### Request
 The Request endpoint allows a ride to be requested on behalf of an Uber user given their desired product, start, and end locations.
 Please review the Sandbox documentation on how to develop and test against these endpoints without making real-world Requests and being charged.
 
